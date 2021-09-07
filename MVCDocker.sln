@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDocker", "MVCDocker\MVCDocker.csproj", "{6DE7F944-6F1E-4CEF-900E-FF8CC2EF5236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDocker.UnitTest", "MVCDocker.UnitTest\MVCDocker.UnitTest.csproj", "{8552399E-2F0B-467F-9D77-01988C32256B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE7F944-6F1E-4CEF-900E-FF8CC2EF5236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE7F944-6F1E-4CEF-900E-FF8CC2EF5236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE7F944-6F1E-4CEF-900E-FF8CC2EF5236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE7F944-6F1E-4CEF-900E-FF8CC2EF5236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8552399E-2F0B-467F-9D77-01988C32256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8552399E-2F0B-467F-9D77-01988C32256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8552399E-2F0B-467F-9D77-01988C32256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8552399E-2F0B-467F-9D77-01988C32256B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D765D49E-F349-4244-849D-B18FED53F340}
+	EndGlobalSection
+EndGlobal
